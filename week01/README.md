@@ -6,7 +6,7 @@
 
 ## 任务
 
-- [ ] 1. GitHub 账号就绪，本仓库 `ds-journey` 已创建
+- [x ] 1. GitHub 账号就绪，本仓库 `ds-journey` 已创建
 - [ ] 2. 装 Python 3.12（勾 Add to PATH）+ VS Code + Jupyter 插件，跑通 `hello.ipynb`
 - [ ] 3. 配好 git（user.name / user.email），完成第一次 commit 并 push
 - [ ] 4. 注册 LeetCode，做完 1.两数之和、9.回文数，思路写进 `exercises.md`
